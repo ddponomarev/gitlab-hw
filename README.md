@@ -50,7 +50,7 @@ build:
    - docker build .
 ```
 
-![build](https://github.com/ddponomarev/gitlab-hw/blob/main/img/zd2png)
+![сборка](https://github.com/ddponomarev/gitlab-hw/blob/main/img/zd2.png)
 
 
 ---
