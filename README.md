@@ -32,7 +32,7 @@
 
 ### Задание 2
 
-
+```
 stages:
   - test
   - build
@@ -48,19 +48,15 @@ build:
   image: docker:latest
   script:
    - docker build .
-
-
-
-
 ```
 
-![build](https://github.com/ddponomarev/gitlab-hw/blob/main/img/zd2.png)`
+![build](https://github.com/ddponomarev/gitlab-hw/blob/main/img/zd2png)
 
 
 ---
 
 ### Задание 3
-
+```
 stages:
   - build
   - test
